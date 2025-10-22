@@ -1,0 +1,5 @@
+{
+  "name": "React Windows Simulation",
+  "description": "A fully functional Windows desktop simulation built with React and Tailwind CSS. It features draggable and resizable windows, a taskbar, a start menu, and several working applications including a browser, notepad, calculator, and a Gemini-powered chat assistant.",
+  "requestFramePermissions": []
+}
